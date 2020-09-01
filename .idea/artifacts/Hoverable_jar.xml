@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Hoverable:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Hoverable_jar</output-path>
+    <root id="archive" name="Hoverable.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../Spigot 1.14.4/plugins/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Hoverable" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Spigot 1.14.4/spigot-1.14.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
